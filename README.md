@@ -34,4 +34,4 @@ If you wish to get started immediately you may download all the binaries along w
 Getting setup for compiling can be done the easy way by running either the ```bootstrap.bat```(Windows) or ```bootstrap.sh```(Linux). <br>
 <br>If you prefer compiling manually, or you are looking for a more thorough getting started guide, you can find the information needed, based on your specific needs in our wiki [here](https://github.com/Black-Tek/BlackTek-Server/wiki/Getting-Started#compiling).<br>
 
-Test
+test commit
